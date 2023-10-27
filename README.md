@@ -4,5 +4,5 @@
 Author = Seiko_off 
 
 #// Instalation \\#
-Drag and drop 
-serveur.cfg --> ensure Seiko_light 
+-Drag and drop dans votre fichier 
+Start la ressource dans votre serveur.cfg --> ensure Seiko_light 
